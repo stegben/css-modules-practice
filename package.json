@@ -1,0 +1,19 @@
+{
+  "name": "css-modules-practice",
+  "version": "1.0.0",
+  "description": "CSS Modules on Webpack2 practice.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stegben/css-modules-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stegben/css-modules-practice/issues"
+  },
+  "homepage": "https://github.com/stegben/css-modules-practice#readme"
+}
