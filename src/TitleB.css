@@ -1,4 +1,0 @@
-.title {
-  composes: title hello from './TitleA.css';
-  font-size: 2em;
-}

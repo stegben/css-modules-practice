@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
-import style from './TitleB.css';
 
 class TitleB extends Component {
   render() {
     return (
-      <div className={style.title}>
+      <div>
         {this.props.content}
       </div>
     );
